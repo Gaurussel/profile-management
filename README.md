@@ -14,12 +14,3 @@
 
 ## <div align="center">🏆 GitHub Trophies</div>
 ![](https://github-profile-trophy.vercel.app/?username=Gaurussel&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### <div align="center">✍️ Random Dev Quote</div>
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### <div align="center">😂 Random Dev Meme</div>
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Gaurussel&icon=2&color=12)](https://visitcount.itsvg.in)
