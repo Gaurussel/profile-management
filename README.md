@@ -1,7 +1,3 @@
-# <div align="center">💫 About Me:</div>
-🔭 I am currently working on a game server and a game on the Unity engine<br>👯 I’m looking to collaborate on design<br>🌱 I’m currently learning C#<br>⚡ Fun fact i'm a fun fact
-
-
 ## <div align="center">🌐 Socials:</div>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Гаруссел#7951) 
 
